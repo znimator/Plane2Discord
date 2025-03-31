@@ -4,6 +4,8 @@
 
 A Node.js middleware to bridge Plane work items board webhooks with Discord, supporting card creation, deletion, and state changes with rich embed formatting.
 
+Feel free to contribute!
+
 ## Features
 ✅ Real-time Discord notifications  
 ✅ Card creation/deletion/movement tracking  
@@ -14,7 +16,10 @@ A Node.js middleware to bridge Plane work items board webhooks with Discord, sup
 ## Requirements
 - Node.js 18+
 - Discord webhook URL
-- Plane webhook integration
+
+## Examples
+
+![image](https://github.com/user-attachments/assets/a3a2a04f-27ad-42b7-b801-5885f19114e4)
 
 ## Installation and Use
 
